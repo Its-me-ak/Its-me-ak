@@ -84,14 +84,14 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/uttam-kumar-aa183b126/" target="_blank">
+     <a href="https://www.linkedin.com/in/mohd-aquib-936140225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo02guYt6SUWoDcSEg3BDYg%3D%3D" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://uttamkrshaw.github.io" target="_blank">
+      <a href="https://webfordev.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
       
-      <a title="Uttam Kumar Shaw " href="uttamkr5599@gmail.com" target="_blank">
+      <a title="Mohd Aquib" href="akibkhan9984@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
