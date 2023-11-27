@@ -19,7 +19,7 @@ product-based company.
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Mohd Aquib 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Mohd Aquib 🏽; I am a Frontend Web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
  
  
@@ -65,11 +65,9 @@ product-based company.
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
+   - 🔭 I’m currently doing Frontend development job
       
-   - 🌱 I’m currently learning at Masai
-      
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1R0Gq3cFuy0t_2LlxlGQESS9mOV6Iehwn/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1EnpQtUChM_hNQvUDg2GNQkjzNJZi2HIK/view?usp=sharing" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://webfordev.com/" target="_blank"  >Portfolio</a>
       
