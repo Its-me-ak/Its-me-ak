@@ -107,7 +107,6 @@ Passionate Frontend Developer 💻 | Crafting seamless user experiences with HTM
       <img src = "https://img.shields.io/badge/scss-%23c76494?style=for-the-badge&logo=sass&logoColor=%23fff" align="center" alt="sass">
       <img src = "https://img.shields.io/badge/Bootstrap-%237910f2?style=for-the-badge&logo=Bootstrap&logoColor=%23fff" align="center" alt="Bootstrap">
       <img src ="https://img.shields.io/badge/tailwind-%233ebff8?style=for-the-badge&logo=tailwind%20css&logoColor=%23fff" align="center" alt="Tailwind">
-
       <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
       <img src ="https://img.shields.io/badge/jquery-%23b24e2a?style=for-the-badge&logo=jquery&logoColor=%23fff" align="center" alt="jQuery">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
@@ -119,16 +118,11 @@ Passionate Frontend Developer 💻 | Crafting seamless user experiences with HTM
        <br/>
       
         <div align="center"><h3 align="center">Tools</h3> 
-         <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/netlify-3aa8a2.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/vercel-ffffff.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-      <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-      <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-         <br/>
-      <br/>
-         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+      <img src = "https://img.shields.io/badge/NPM-cd3e3d.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+         <img src="https://img.shields.io/badge/Visual%20Studio-087cd8.svg?style=for-the-badge&logo=visual-studio&logoColor=white"align="center" alt="vscode"/>
        </div>
       </div>
        <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
