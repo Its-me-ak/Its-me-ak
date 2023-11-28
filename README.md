@@ -7,17 +7,13 @@
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Its-me-ak&label=Profile%20views&color=9130c2&style=flat" alt="Mohd Aquib" /> </p>
       
-   <h3 align="center">An analytical and detail-oriented aspiring
-Full Stack Web Developer. Capable of
-writing production-ready code using
-MERN stack. Passionate about coding
-and intensely interested in working in a
-product-based company.
+   <h3 align="center">
+Passionate Frontend Developer 💻 | Crafting seamless user experiences with HTML, CSS, JavaScript, and React ✨ | Enthusiastic about the latest web technologies and responsive design 🌐 | Turning design visions into pixel-perfect reality 🎨 | Constantly learning and evolving in the ever-changing world of frontend development 🚀
 </h3>
       
    
       
-   <p align="center" color:"red">
+   <p align="center" color:"red"
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Mohd Aquib 🏽; I am a Frontend Web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
