@@ -86,11 +86,17 @@ Passionate Frontend Developer 💻 | Crafting seamless user experiences with HTM
       <a href="https://webfordev.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      
+     <a href="https://instagram.com/akib__077?igshid=MzMyNGUyNmU2YQ==" target="_blank">
+     <img src="https://img.shields.io/badge/instagram-%23843ab2?style=for-the-badge&logo=instagram&logoColor=%23fff" align="center" alt="instagram"> </a>
+
+      <a href="www.twitter.com/Akibfam_47" target="_blank">
+     <img src="https://img.shields.io/badge/twitter-%2324a4f2?style=for-the-badge&logo=twitter&logoColor=%23fff" align="center" alt="twitter"> </a>
+     
       <a title="Mohd Aquib" href="mailto:akibkhan9984@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="gmail"> </a>
      
      </div>
+     <br>
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
     
@@ -118,12 +124,14 @@ Passionate Frontend Developer 💻 | Crafting seamless user experiences with HTM
        <br/>
       
         <div align="center"><h3 align="center">Tools</h3> 
-         <img src="https://img.shields.io/badge/netlify-3aa8a2.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-         <img src="https://img.shields.io/badge/vercel-ffffff.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/netlify-3aa8a2.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt="git"/>
+         <img src="https://img.shields.io/badge/vercel-ffffff.svg?style=for-the-badge&logo=vercel&logoColor=black" align="center" alt="git"/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
       <img src = "https://img.shields.io/badge/NPM-cd3e3d.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
          <img src="https://img.shields.io/badge/Visual%20Studio-087cd8.svg?style=for-the-badge&logo=visual-studio&logoColor=white"align="center" alt="vscode"/>
+     
        </div>
+       <br>
       </div>
        <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
       <br/>
