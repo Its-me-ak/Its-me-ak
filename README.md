@@ -89,7 +89,7 @@ Passionate Frontend Developer 💻 | Crafting seamless user experiences with HTM
      <a href="https://instagram.com/akib__077?igshid=MzMyNGUyNmU2YQ==" target="_blank">
      <img src="https://img.shields.io/badge/instagram-%23843ab2?style=for-the-badge&logo=instagram&logoColor=%23fff" align="center" alt="instagram"> </a>
 
-      <a href="www.twitter.com/Akibfam_47" target="_blank">
+      <a href="https://twitter.com/Akibfam_47" target="_blank">
      <img src="https://img.shields.io/badge/twitter-%2324a4f2?style=for-the-badge&logo=twitter&logoColor=%23fff" align="center" alt="twitter"> </a>
      
       <a title="Mohd Aquib" href="mailto:akibkhan9984@gmail.com" target="_blank">
