@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://images4.alphacoders.com/135/thumb-1920-1355403.png" alt="javascript" height="500px" width="100%" style="vertical-align:middle;margin:50px 0px" />
+
 </div>  
   
 
@@ -99,25 +100,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Its-me-ak&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
