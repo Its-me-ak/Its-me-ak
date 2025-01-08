@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images4.alphacoders.com/135/thumb-1920-1355403.png" alt="javascript" height="500px" width="100%" style="vertical-align:middle;margin:50px 0px" />
+<img src="https://images4.alphacoders.com/135/thumb-1920-1355403.png" alt="javascript" height="440px" width="100%" style="vertical-align:middle;margin:50px 0px" />
 
 </div>  
   
@@ -96,7 +96,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-me-ak&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?Ita-me-ak=&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
