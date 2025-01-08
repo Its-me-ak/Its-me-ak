@@ -101,6 +101,8 @@
   
   ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Its-me-ak&show_icons=true&count_private=true&hide_border=true" align="center" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-me-ak&hide_border=true&layout=compact" align="left" />  
 </div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Its-me-ak&&style=flat-square" align="center" />
+</div
