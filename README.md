@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, Crafting sleek, responsive frontends with a touch of backend magic ✨ | Building seamless web experiences since 2021 🚀</div>  
+### <div align="center">I'm Mohd Aquib, Crafting sleek, responsive frontends with a touch of backend magic ✨ | Building seamless web experiences since 2021 🚀</div>  
   
 
 - 🛠️ Favorite Tech Combo: React, TailwindCSS, and the sweet, sweet sound of npm start.  
