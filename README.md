@@ -19,10 +19,10 @@
 - ⚡ Fun fact: I debug my code better at midnight 🌙
 
   
-- 📄 Check out my <a href="https://drive.google.com/file/d/18dO49vwYE4XbdMR-TjDc19YeEV_vnZui/view?usp=drive_link" target="_blank" >Resume</a>
+- 📄 Check out my <a href="https://drive.google.com/file/d/1wHW_YmnO6S9eLkTRDc-SfCgMpv0oxwi7/view?usp=drive_link" target="_blank" >Resume</a>
 
       
-- 💻 Know more about me <a href="https://mohd-aquib-portfolio.netlify.app/" target="_blank"  >Portfolio</a>
+- 💻 Know more about me <a href="https://mohd-aquib-portfolio.vercel.app/" target="_blank"  >Portfolio</a>
 
       
 - 📫 How to reach me *akibkhan9984@gmail.com*
